@@ -1,7 +1,4 @@
 # FaMail
 A mail system for family\n
-FaMail是一家庭信息交互平台
-本项目在2015年9月18日正式立项编写
-
-目前该项处于准备状态
-准备完成1%
+FaMail项目极其下属项目FaMail BBS都已进行中
+FaMail BBS是本渣渣觉得dz太不适合小型论坛需要者使用
